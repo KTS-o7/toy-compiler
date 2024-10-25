@@ -4,6 +4,12 @@
 
 A compiler is a program that translates source code written in a high-level language to machine language. Compiler design involves a series of phases. Each phase takes input from its previous stage, has its own representation of source code, and feeds its output to the next phase of the compiler. This repository contains a toy compiler project for educational purposes.
 
+![GitHub repo size](https://img.shields.io/github/repo-size/KTS-o7/toy-compiler)
+![GitHub issues](https://img.shields.io/github/issues/KTS-o7/toy-compiler)
+![GitHub forks](https://img.shields.io/github/forks/KTS-o7/toy-compiler)
+![GitHub stars](https://img.shields.io/github/stars/KTS-o7/toy-compiler)
+![GitHub license](https://img.shields.io/github/license/KTS-o7/toy-compiler)
+
 ## Phases of the Compiler
 
 ### 1. Lexical Analysis
