@@ -129,3 +129,12 @@ cd Intermediate-Code-Generator
 ## Conclusion
 
 This project demonstrates the basic phases of a compiler, from lexical analysis to code generation. Each phase is implemented in a separate module, and the entire process can be run using the provided scripts.
+
+## Images
+
+1. Lexical Analysis
+   ![Lexical Analysis1](./assets/Lex1.png)
+   ![Lexical Analysis2](./assets/Lex2.png)
+
+2. Parser
+   ![Parser](./assets/ParseErr.png)
